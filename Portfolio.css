@@ -936,9 +936,10 @@ img {
 
 @media (max-width:426px) {
     .menu {
-        width: 23%;
+        width: 20%;
         height: 135vh;
         position: fixed;
+        float: left;
     }
     .menu1 {
         position: fixed;
@@ -1016,7 +1017,8 @@ img {
         width: 85px;
     }
     .box {
-        width: 70%;
+        width: 80%;
+        float: right;
     }
     .name {
         margin-left: 60px;
@@ -1056,7 +1058,8 @@ img {
         background-image: url(https://www.ilovewallpaper.ie/images/new-walls-plain-wallpaper-grey-white-p7409-25166_image.jpg);
     }
     .box2 {
-        width: 70%;
+        width: 80%;
+        float: right;
     }
     .box2 i {
         font-size: 25px;
@@ -1106,7 +1109,7 @@ img {
         list-style-type: none;
     }
     .box1 {
-        width: 70%;
+        width: 80%;
     }
     .box1 h1 {
         font-size: 35px;
@@ -1123,8 +1126,9 @@ img {
         background: #2187e7;
     }
     .effects {
-        width: 70%;
+        width: 80%;
         height: 310vh;
+        float: right;
     }
     .effects h1 {
         font-size: 35px;
@@ -1154,6 +1158,7 @@ img {
     }
     .connect {
         width: 70%;
+        float: right;
     }
     .connect h1 {
         font-size: 30px;
