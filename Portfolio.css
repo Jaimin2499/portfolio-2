@@ -944,7 +944,7 @@ img {
     .menu1 {
         position: fixed;
         left: -37px;
-        top: -30%;
+        top: -20%;
         height: 250px;
         width: 100px;
     }
@@ -1063,27 +1063,27 @@ img {
     }
     .box2 i {
         font-size: 25px;
-        margin-left: 10px;
+        margin-left: 30px;
     }
     .box2 h1 {
-        margin-left: 50px;
+        margin-left: 70px;
         margin-top: -30px;
         font-size: 30px;
     }
     .box2 p {
         font-size: 20px;
         margin-top: 40px;
-        margin-left: 10px;
+        margin-left: 30px;
     }
     .box2 h2 {
         font-size: 22px;
         margin-top: -22px;
-        margin-left: 50px;
+        margin-left: 70px;
     }
     .box2 h3 {
         margin-top: 20px;
         font-size: 18px;
-        margin-left: 20px;
+        margin-left: 30px;
     }
     .box1 {
         width: 80%;
@@ -1096,13 +1096,13 @@ img {
         color: #0C2D48;
         font-size: 40px;
         margin-top: 20px;
-        margin-left: 10px;
+        margin-left: 30px;
     }
     .box1 h3 {
         color: #0C2D48;
         margin-top: 20px;
         font-size: 30px;
-        margin-left: -10px;
+        margin-left: 5px;
         padding: 25px;
     }
     .box1 li {
@@ -1119,6 +1119,7 @@ img {
     }
     .bar {
         width: 55%;
+        margin-left: 30px;
     }
     .bar span {
         height: 2px;
@@ -1132,36 +1133,39 @@ img {
     }
     .effects h1 {
         font-size: 35px;
+        margin-left: 30px;
     }
     .box3 {
-        width: 90%;
+        width: 80%;
+        left: 15px;
     }
     .box4 {
-        width: 90%;
-        left: 13px;
+        width: 80%;
+        left: 32px;
     }
     .box5 {
-        width: 90%;
-        left: 13px;
+        width: 80%;
+        left: 32px;
     }
     .box6 {
-        width: 90%;
-        left: 0px;
+        width: 80%;
+        left: 15px;
     }
     .box7 {
-        width: 90%;
-        left: 10px;
+        width: 80%;
+        left: 32px;
     }
     .box8 {
-        width: 90%;
-        left: 0px;
+        width: 80%;
+        left: 15px;
     }
     .connect {
-        width: 70%;
+        width: 80%;
         float: right;
     }
     .connect h1 {
         font-size: 30px;
+        margin-left: 30px;
     }
     .map {
         width: 280px;
@@ -1177,11 +1181,13 @@ img {
         position: relative;
         top: 20px;
         width: 60%;
+        margin-left: 15px;
     }
     .contact-from-txtarea {
         position: relative;
         top: -55px;
         width: 60%;
+        margin-left: 15px;
     }
     .contact-from-btn {
         position: relative;
